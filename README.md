@@ -2,3 +2,4 @@
 anlyse
 digitize
 revise
+conclure
